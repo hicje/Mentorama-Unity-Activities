@@ -2,7 +2,7 @@
 
 Curso: **Profissão Desenvolvedor de Games em Unity**<br/>
 Módulo: **Unity Iniciante**<br/>
-Versão do Unity: **2021.3.1f1**<br/>
+Versão do Unity: **2019.4.12f1**<br/>
 Acessar os arquivos das atividades na pasta: **Files**
 
 ## Módulo 1
