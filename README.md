@@ -9,6 +9,6 @@ Acessar os arquivos das atividades na pasta: **Files**
 
 Primeira atividade do módulo:<br/>
 Ambientalizar-se na ferramenta unity: hierarquia, cena, layout.<br/>
-[Arquivos da Atividade]()
+[Arquivos da Atividade](https://github.com/hicje/Mentorama-Unity-Activities/tree/main/Files/Modulo1)
 
-<img src=">
+<img src="Files/Modulo1/unityModulo1.1.gif" alt="project"/>
