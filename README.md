@@ -17,7 +17,7 @@ Ambientalizar-se na ferramenta unity: hierarquia, cena, layout.<br/>
 
 Segunda atividade do módulo:<br/>
 Exportar um projeto level greybox: iluminação, prefab.<br/>
-[Arquivos da Atividade]()
+[Arquivos da Atividade](https://github.com/hicje/Mentorama-Unity-Activities/tree/main/Files/modulo2)
 
-<img src="" alt="project"/>
+<img src="Files/modulo2/unityModulo2.1.gif" alt="project"/>
 
