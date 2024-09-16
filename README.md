@@ -21,3 +21,11 @@ Exportar um projeto level greybox: iluminação, prefab.<br/>
 
 <img src="Files/modulo2/unityModulo2.1.gif" alt="project"/>
 
+## Módulo 3
+
+Terceira atividade do módulo:<br/>
+Implementar um código que realize o cálculo de quantidade de cédulas de um valor.<br/>
+[Arquivos da Atividade](https://github.com/hicje/Mentorama-Unity-Activities/tree/main/Files/Modulo3)
+
+<img src="https://github.com/hicje/Mentorama-Unity-Activities/blob/main/Files/Modulo3/ContaNotas.jpeg" alt="project"/>
+
