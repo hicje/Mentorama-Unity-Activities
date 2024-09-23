@@ -29,3 +29,15 @@ Implementar um código que realize o cálculo de quantidade de cédulas de um va
 
 <img src="https://github.com/hicje/Mentorama-Unity-Activities/blob/main/Files/Modulo3/ContaNotas.jpeg" alt="project"/>
 
+## Módulo 4
+
+Quarta atividade do módulo:<br/>
+Exportar build com 3 funcionalidades:<br/>
+- dropdown: resolução;
+- checkbox: fullscreen;
+- button: close apllication.
+
+[Arquivos da Atividade](https://github.com/hicje/Mentorama-Unity-Activities/tree/main/Files/Modulo4)
+
+<img src="Files/Modulo4/unityModulo4.gif" alt="project"/>
+
