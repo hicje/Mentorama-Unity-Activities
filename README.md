@@ -41,3 +41,20 @@ Exportar build com 3 funcionalidades:<br/>
 
 <img src="Files/Modulo4/unityModulo4.gif" alt="project"/>
 
+## Módulo 5
+
+Quinta atividade do módulo:<br/>
+Desenvolver um minigame (quiz) com:<br/>
+- Adicionar perguntas com dificuldades diferentes(É possive selecionar Entre: Easy, Medium, Hard.);
+- Pontuações diferentes(Em cada dificuldade.);
+- Powerup: pular pergunta(So Funciona Uma vez);
+- Melhorar visual(Tematica de Counter-Strike).
+
+[Arquivos da Atividade]()
+
+<img src="" alt="project"/>
+
+
+
+
+
