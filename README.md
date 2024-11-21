@@ -45,9 +45,9 @@ Exportar build com 3 funcionalidades:<br/>
 
 Quinta atividade do módulo:<br/>
 Desenvolver um minigame (quiz) com:<br/>
-- Adicionar perguntas com dificuldades diferentes(É possive selecionar Entre: Easy, Medium, Hard.);
+- Adicionar perguntas com dificuldades diferentes(É possivel selecionar Entre: Easy, Medium, Hard.);
 - Pontuações diferentes(Em cada dificuldade.);
-- Powerup: pular pergunta(So Funciona Uma vez);
+- Powerup: pular pergunta(Só Funciona uma vez.);
 - Melhorar visual(Tematica de Counter-Strike).
 
 [Arquivos da Atividade](https://github.com/hicje/Mentorama-Unity-Activities/tree/main/Files/Modulo5)
