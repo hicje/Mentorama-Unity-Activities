@@ -54,6 +54,15 @@ Desenvolver um minigame (quiz) com:<br/>
 
 <img src="Files/Modulo5/unityModulo5.gif" alt="project"/>
 
+## Módulo 6
+
+Sexta atividade do módulo:
+Desenvolver um projeto on deve instanciar scenes de forma aditiva conforme o player vai andando no mapa
+
+[Arquivos da Atividade](https://github.com/hicje/Mentorama-Unity-Activities/tree/main/Files/Modulo6)
+
+<img src="Files/Modulo6/unityModulo6.gif" alt="project"/>
+
 
 
 
