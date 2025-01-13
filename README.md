@@ -56,12 +56,23 @@ Desenvolver um minigame (quiz) com:<br/>
 
 ## Módulo 6
 
-Sexta atividade do módulo:
+Sexta atividade do módulo:<br/>
 Desenvolver um projeto on deve instanciar scenes de forma aditiva conforme o player vai andando no mapa
 
 [Arquivos da Atividade](https://github.com/hicje/Mentorama-Unity-Activities/tree/main/Files/Modulo6)
 
 <img src="Files/Modulo6/unityModulo6.gif" alt="project"/>
+
+## Módulo 7
+
+Sétima atividade do módulo:<br/>
+Desenvolver um projeto on deve criar objeto colocando força no vetor Y, para manter o máximo de tempo no ar.<br/>
+-A partir de 10 pontos, aparecem obstaculos para atrapalhar;
+-Perde ao colidir com obstaculos ou com o chão;
+[Arquivos da Atividade](https://github.com/hicje/Mentorama-Unity-Activities/tree/main/Files/Modulo7)
+
+<img src="Files/Modulo7/unityModulo7.gif" alt="project"/>
+
 
 
 
