@@ -35,7 +35,7 @@ Quarta atividade do módulo:<br/>
 Exportar build com 3 funcionalidades:<br/>
 - dropdown: resolução;
 - checkbox: fullscreen;
-- button: close apllication.
+- button: close apllication.<br/>
 
 [Arquivos da Atividade](https://github.com/hicje/Mentorama-Unity-Activities/tree/main/Files/Modulo4)
 
@@ -48,7 +48,7 @@ Desenvolver um minigame (quiz) com:<br/>
 - Adicionar perguntas com dificuldades diferentes(É possivel selecionar Entre: Easy, Medium, Hard.);
 - Pontuações diferentes(Em cada dificuldade.);
 - Powerup: pular pergunta(Só Funciona uma vez.);
-- Melhorar visual(Tematica de Counter-Strike).
+- Melhorar visual(Tematica de Counter-Strike).<br/>
 
 [Arquivos da Atividade](https://github.com/hicje/Mentorama-Unity-Activities/tree/main/Files/Modulo5)
 
@@ -57,7 +57,7 @@ Desenvolver um minigame (quiz) com:<br/>
 ## Módulo 6
 
 Sexta atividade do módulo:<br/>
-Desenvolver um projeto on deve instanciar scenes de forma aditiva conforme o player vai andando no mapa
+Desenvolver um projeto on deve instanciar scenes de forma aditiva conforme o player vai andando no mapa<br/>
 
 [Arquivos da Atividade](https://github.com/hicje/Mentorama-Unity-Activities/tree/main/Files/Modulo6)
 
@@ -67,8 +67,8 @@ Desenvolver um projeto on deve instanciar scenes de forma aditiva conforme o pla
 
 Sétima atividade do módulo:<br/>
 Desenvolver um projeto on deve criar objeto colocando força no vetor Y, para manter o máximo de tempo no ar.<br/>
--A partir de 10 pontos, aparecem obstaculos para atrapalhar;
--Perde ao colidir com obstaculos ou com o chão;
+-A partir de 10 pontos, aparecem obstaculos para atrapalhar;<br/>
+-Perde ao colidir com obstaculos ou com o chão;<br/>
 [Arquivos da Atividade](https://github.com/hicje/Mentorama-Unity-Activities/tree/main/Files/Modulo7)
 
 <img src="Files/Modulo7/unityModulo7.gif" alt="project"/>
