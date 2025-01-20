@@ -73,6 +73,17 @@ Desenvolver um projeto on deve criar objeto colocando força no vetor Y, para ma
 
 <img src="Files/Modulo7/unityModulo7.gif" alt="project"/>
 
+## Módulo 8
+
+Oitava atividade do módulo:<br/>
+Importar assets de uma cidade no projeto e criar modelos de prefab;<br/>
+-Foram criados prefabs de Floresta, carros, ruas e postes;<br/>
+-Cena da cidade foi criada do 0, apenas utiulizando os prefabs e modelos importados;<br/>
+[Arquivos da Atividade](https://github.com/hicje/Mentorama-Unity-Activities/tree/main/Files/Modulo8)
+
+<img src="Files/Modulo8/unityModulo8.gif" alt="project"/>
+
+
 
 
 
