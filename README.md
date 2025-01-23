@@ -67,8 +67,8 @@ Desenvolver um projeto on deve instanciar scenes de forma aditiva conforme o pla
 
 Sétima atividade do módulo:<br/>
 Desenvolver um projeto on deve criar objeto colocando força no vetor Y, para manter o máximo de tempo no ar.<br/>
--A partir de 10 pontos, aparecem obstaculos para atrapalhar;<br/>
--Perde ao colidir com obstaculos ou com o chão;<br/>
+- A partir de 10 pontos, aparecem obstaculos para atrapalhar;<br/>
+- Perde ao colidir com obstaculos ou com o chão;<br/>
 [Arquivos da Atividade](https://github.com/hicje/Mentorama-Unity-Activities/tree/main/Files/Modulo7)
 
 <img src="Files/Modulo7/unityModulo7.gif" alt="project"/>
@@ -77,8 +77,8 @@ Desenvolver um projeto on deve criar objeto colocando força no vetor Y, para ma
 
 Oitava atividade do módulo:<br/>
 Importar assets de uma cidade no projeto e criar modelos de prefab;<br/>
--Foram criados prefabs de Floresta, carros, ruas e postes;<br/>
--Cena da cidade foi criada do 0, apenas utiulizando os prefabs e modelos importados;<br/>
+- Foram criados prefabs de Floresta, carros, ruas e postes;<br/>
+- Cena da cidade foi criada do 0, apenas utiulizando os prefabs e modelos importados;<br/>
 [Arquivos da Atividade](https://github.com/hicje/Mentorama-Unity-Activities/tree/main/Files/Modulo8)
 
 <img src="Files/Modulo8/unityModulo8.gif" alt="project"/>
